@@ -15,11 +15,11 @@ const DISCOVERY = {
   tokenEndpoint: "https://accounts.spotify.com/api/token",
 };
 
-const CLIENT_ID = "32a6bb92e1b14424969f067e441d8bba";
-const CLIENT_SECRET = "9db13de220234318879082d07eed00a6";
+const CLIENT_ID = "YOUR_CLIENT_ID";
+const CLIENT_SECRET = "YOUR_CLIENT_SECRET";
 const REDIRECT_URI = makeRedirectUri({
-  scheme: "lunarify-native",
-  native: `lunarify-native://redirect`,
+  scheme: "lunar-stats-native",
+  native: `lunar-stats-native://redirect`,
 });
 const SCOPES = ["user-top-read"];
 
