@@ -1,0 +1,43 @@
+{
+  "navigation": {
+    "home": "Strona Główna",
+    "stats": "Statystyki",
+    "settings": "Ustawienia",
+    "login": "Zaloguj się"
+  },
+
+  "stats": {
+    "last4Weeks": "Ostatnie 4 Tygodnie",
+    "last6Months": "Ostatnie 6 Miesięcy",
+    "allTime": "Cała Historia",
+    "popularity": "Popularność",
+    "artists": "Artyści",
+    "songs": "Utwory",
+    "show": "pokaż",
+    "hide": "ukryj"
+  },
+  "themes": {
+    "chooseTheme": "Wybierz Motyw",
+    "Dark Lavender": "Ciemny Lawendowy",
+    "Dark Blue": "Ciemny Błękitny",
+    "Dark Pink": "Ciemny Różowy",
+    "Dark Yellow": "Ciemny Żółty",
+    "Dark Mint": "Ciemny Miętowy",
+    "Light Lavender": "Jasny Lawendowy",
+    "Light Blue": "Jasny Błękitny",
+    "Light Pink": "Jasny Różowy",
+    "Light Yellow": "Jasny Żółty",
+    "Light Mint": "Jasny Miętowy"
+  },
+  "error": {
+    "header": "Wystąpił błąd!",
+    "message": "Coś poszło nie tak!",
+    "header404": "Nie znaleziono!",
+    "message404": "Nie udało się znaleźć zasobu bądź strony."
+  },
+  "fallback": {
+    "header": "Lunar Stats - Twoje najczęściej słuchane utwory",
+    "paragraph": "By użyć tej aplikacji musisz się zalogować używając swojego konta Spotify. Bez tego nie będziemy w stanie pokazać ci statystyk powiązanych z twoim profilem.",
+    "button": "Zaloguj się ze Spotify!"
+  }
+}

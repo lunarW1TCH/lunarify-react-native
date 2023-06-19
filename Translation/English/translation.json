@@ -1,0 +1,43 @@
+{
+  "navigation": {
+    "home": "Home",
+    "stats": "Stats",
+    "settings": "Settings",
+    "login": "Log in"
+  },
+
+  "stats": {
+    "last4Weeks": "Last 4 Weeks",
+    "last6Months": "Last 6 Months",
+    "allTime": "All Time",
+    "popularity": "Popularity",
+    "artists": "Artists",
+    "songs": "Songs",
+    "show": "show",
+    "hide": "hide"
+  },
+  "themes": {
+    "chooseTheme": "Choose Theme",
+    "Dark Lavender": "Dark Lavender",
+    "Dark Blue": "Dark Blue",
+    "Dark Pink": "Dark Pink",
+    "Dark Yellow": "Dark Yellow",
+    "Dark Mint": "Dark Mint",
+    "Light Lavender": "Light Lavender",
+    "Light Blue": "Light Blue",
+    "Light Pink": "Light Pink",
+    "Light Yellow": "Light Yellow",
+    "Light Mint": "Light Mint"
+  },
+  "error": {
+    "header": "An error occured!",
+    "message": "Something went wrong!",
+    "header404": "Not found!",
+    "message404": "Could not find resource or page."
+  },
+  "fallback": {
+    "header": "Lunar Stats - Your top tracks and artists",
+    "paragraph": "To use this app you need to log in using your Spotify account. Without it we cannot show you any statistics tied to your profile.",
+    "button": "Log in with Spotify!"
+  }
+}
