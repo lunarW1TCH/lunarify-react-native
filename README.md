@@ -1,4 +1,4 @@
-Hello, this is a React Native for Android and Ios version of my Lunar Stats web app. 
+Hello, this is a React Native version of my Lunar Stats web app for Android and Ios. 
 There is also a React version: https://github.com/lunarW1TCH/lunarify-react
 
 Technologies used: 
