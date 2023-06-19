@@ -1,4 +1,6 @@
 Hello, this is a React Native for Android and Ios version of my Lunar Stats web app. 
+There is also a React version: https://github.com/lunarW1TCH/lunarify-react
+
 Technologies used: 
  - React Native
  - TypeScript
